@@ -1,0 +1,86 @@
+{
+    "response": [
+        {
+            "total": 559.2,
+            "minimum": 10,
+            "maximum": 129.8,
+            "bookingvalue": 559.2,
+            "orders": 1,
+            "day": "2022-06-07"
+        },
+        {
+            "total": 8501.2,
+            "minimum": 170,
+            "maximum": 1196,
+            "bookingvalue": 8501.2,
+            "orders": 1,
+            "day": "2022-06-10"
+        },
+        {
+            "total": 19853.6,
+            "minimum": 1540,
+            "maximum": 1853.8,
+            "bookingvalue": 19853.6,
+            "orders": 1,
+            "day": "2022-06-13"
+        },
+        {
+            "total": 3479.2,
+            "minimum": 80,
+            "maximum": 660,
+            "bookingvalue": 3479.2,
+            "orders": 1,
+            "day": "2022-06-16"
+        },
+        {
+            "total": 3040,
+            "minimum": 100,
+            "maximum": 660,
+            "bookingvalue": 3040,
+            "orders": 1,
+            "day": "2022-06-20"
+        },
+        {
+            "total": 4196,
+            "minimum": 220,
+            "maximum": 439.6,
+            "bookingvalue": 4196,
+            "orders": 2,
+            "day": "2022-07-06"
+        },
+        {
+            "total": 2340,
+            "minimum": 145,
+            "maximum": 220,
+            "bookingvalue": 2340,
+            "orders": 2,
+            "day": "2022-07-07"
+        },
+        {
+            "total": 1760,
+            "minimum": 440,
+            "maximum": 440,
+            "bookingvalue": 1760,
+            "orders": 1,
+            "day": "2022-07-08"
+        },
+        {
+            "total": 1200,
+            "minimum": 80,
+            "maximum": 220,
+            "bookingvalue": 1200,
+            "orders": 1,
+            "day": "2022-07-15"
+        },
+        {
+            "total": 3600,
+            "minimum": 80,
+            "maximum": 220,
+            "bookingvalue": 3600,
+            "orders": 3,
+            "day": "2022-07-27"
+        }
+    ],
+    "res_code": "100",
+    "res_msg": "Request processed succesfully"
+}
